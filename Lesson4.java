@@ -20,6 +20,7 @@ public class Lesson4 {
     private static int fieldSizeY;
 
 
+
     public static void main(String[] args) {
         fieldSizeY = 3;
         fieldSizeX = 3;
